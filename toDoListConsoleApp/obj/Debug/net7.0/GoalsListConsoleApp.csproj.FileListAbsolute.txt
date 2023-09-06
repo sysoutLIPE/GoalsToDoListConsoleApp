@@ -1,0 +1,4 @@
+C:\Users\Felipe\Desktop\Lipe PClenovo\toDoListConsoleApp\GoalsListConsoleApp\obj\Debug\net7.0\GoalsListConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\Lipe PClenovo\toDoListConsoleApp\GoalsListConsoleApp\obj\Debug\net7.0\GoalsListConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Lipe PClenovo\toDoListConsoleApp\GoalsListConsoleApp\obj\Debug\net7.0\GoalsListConsoleApp.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Lipe PClenovo\toDoListConsoleApp\GoalsListConsoleApp\obj\Debug\net7.0\GoalsListConsoleApp.csproj.CoreCompileInputs.cache
