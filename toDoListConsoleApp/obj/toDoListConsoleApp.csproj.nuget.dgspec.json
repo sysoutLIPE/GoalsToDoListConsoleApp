@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Felipe\\Desktop\\Lipe PClenovo\\toDoListConsoleApp\\toDoListConsoleApp\\toDoListConsoleApp.csproj": {}
+    "c:\\Users\\Felipe\\Desktop\\Lipe PClenovo\\toDoListConsoleApp\\toDoListConsoleApp\\toDoListConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Felipe\\Desktop\\Lipe PClenovo\\toDoListConsoleApp\\toDoListConsoleApp\\toDoListConsoleApp.csproj": {
+    "c:\\Users\\Felipe\\Desktop\\Lipe PClenovo\\toDoListConsoleApp\\toDoListConsoleApp\\toDoListConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Felipe\\Desktop\\Lipe PClenovo\\toDoListConsoleApp\\toDoListConsoleApp\\toDoListConsoleApp.csproj",
+        "projectUniqueName": "c:\\Users\\Felipe\\Desktop\\Lipe PClenovo\\toDoListConsoleApp\\toDoListConsoleApp\\toDoListConsoleApp.csproj",
         "projectName": "toDoListConsoleApp",
-        "projectPath": "C:\\Users\\Felipe\\Desktop\\Lipe PClenovo\\toDoListConsoleApp\\toDoListConsoleApp\\toDoListConsoleApp.csproj",
+        "projectPath": "c:\\Users\\Felipe\\Desktop\\Lipe PClenovo\\toDoListConsoleApp\\toDoListConsoleApp\\toDoListConsoleApp.csproj",
         "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Felipe\\Desktop\\Lipe PClenovo\\toDoListConsoleApp\\toDoListConsoleApp\\obj\\",
+        "outputPath": "c:\\Users\\Felipe\\Desktop\\Lipe PClenovo\\toDoListConsoleApp\\toDoListConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
